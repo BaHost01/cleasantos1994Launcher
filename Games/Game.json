@@ -1,1 +1,14 @@
-
+[
+  {
+    "name": "Awesome Game",
+    "download_url": "https://example.com/awesome_game.zip",
+    "size_mb": 150,
+    "description": "An awesome game to play."
+  },
+  {
+    "name": "Super Fun Game",
+    "download_url": "https://example.com/super_fun_game.zip",
+    "size_mb": 200,
+    "description": "A super fun game with lots of features."
+  }
+]
